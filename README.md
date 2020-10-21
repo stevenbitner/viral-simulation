@@ -72,7 +72,7 @@ In the [demo below](#demo-of-completed-program), an orange outline is used.
 ### Submission Requirements:
 1. All code must be added and committed to your local git repository.
 1. All code must be pushed to the GitHub repository created when you "accepted" the assignment.
-	1. After pushing, with `git push origin master`, visit the web URL of your repository to verify that your code is there.
+	1. After pushing, with `git push origin main`, visit the web URL of your repository to verify that your code is there.
 	If you don't see the code there, then we can't see it either.
 1. If your program will not compile, the graders will not be responsible for trying to test it.
 
