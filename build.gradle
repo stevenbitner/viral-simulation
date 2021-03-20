@@ -85,6 +85,7 @@ sourceSets {
 }
 
 sourceSets.main.java.srcDirs = ['src/main/java']
+mainClassName = "Main"
 
 run {
 	standardInput = System.in
